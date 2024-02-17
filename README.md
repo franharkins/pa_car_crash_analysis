@@ -1,5 +1,10 @@
 Project: Pennsylvania Car Crash Analysis
 
+
+Project Start Date: 2024-02-16
+
+Project Deadline Date: 2024-02-20
+
 Project Scope:
   -ingest data from API
   -create data reload functionality
@@ -20,3 +25,6 @@ Project Scope:
   -set up example config with link to api token creation
   
   -pull all possible data with user creds
+
+  Current Issues
+   -unable to load all data, need to load generator into dataframe
