@@ -3,28 +3,18 @@ Project: Pennsylvania Car Crash Analysis
 
 Project Start Date: 2024-02-16
 
-Project Deadline Date: 2024-02-20
+Original Project Deadline Date: 2024-02-20
+
+Extended Project Deadline Date: 2024-02-25
+
+Extension needed due to longer development time needed for data pull.
+
+Simplifying Project Scope as well
+
 
 Project Scope:
-  -ingest data from API
-  -create data reload functionality
-   -check for any changes to data set (new data)
+  -ingest data from API for 2019-2022
+  -create data load functionality
   -explore TBD data points
   -aggregate on findings
   -create visuals with matplotlib
-
-
-
-  Project Log:
-
-  initial commits, license, requirements established
-  initial api connection + pull established
-
-  Next Steps:
-  -config api token + gitignore
-  -set up example config with link to api token creation
-  
-  -pull all possible data with user creds
-
-  Current Issues
-   -unable to load all data, need to load generator into dataframe
